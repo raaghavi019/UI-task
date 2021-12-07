@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>bio</title>
+        <body bgcolor="blue">
+
+            <h1 align="center">registration</h1>
+            <table align="center">
+            <tr>
+                <td>
+
+<p>NAME : </p></td>
+<td><input type="text" placeholder="first name" >
+<br>
+<input type="text" placeholder="last name"></td>
+</tr>
+<tr>
+    <td>
+<p> DOB : </p></td>
+<td>
+<input type="date" ></td>
+
+</tr>
+<tr> 
+    <td>
+<p> PHONE NUMBER : </p></td>
+<td>
+<input type="number"></td>
+</tr>
+<tr>
+    <td>
+<p>EMAIL : </p></td>
+<td>
+<input type="email"></td>
+</tr>
+<tr>
+    <td>
+<p>PASSWORD : </p></td>
+<td>
+<input type="password" placeholder="******"></td></tr>
+</table>
+
+        </body>
+    </head>
+</html>v
